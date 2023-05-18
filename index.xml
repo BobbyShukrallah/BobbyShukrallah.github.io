@@ -2,108 +2,108 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jonas Azzam</title>
-    <link>/%20%22https://github.com/BobbyShukrallah/github.io%22/</link>
+    <link>/</link>
     <description>Recent content on Jonas Azzam</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 16 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="/%20%22https://github.com/BobbyShukrallah/github.io%22/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 16 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>01 - Review of Measure Theory</title>
-      <link>/%20%22https://github.com/BobbyShukrallah/github.io%22/docs/gmt/nested-chapter/chapter-1/</link>
+      <link>/docs/gmt/nested-chapter/chapter-1/</link>
       <pubDate>Sun, 11 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>/%20%22https://github.com/BobbyShukrallah/github.io%22/docs/gmt/nested-chapter/chapter-1/</guid>
+      <guid>/docs/gmt/nested-chapter/chapter-1/</guid>
       <description>&lt;p&gt;We review some basic concepts from Measure Theory, highlighting the bits that will be important in future chapters.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>02 - Covering Lemmas and Differentiation</title>
-      <link>/%20%22https://github.com/BobbyShukrallah/github.io%22/docs/gmt/nested-chapter/chapter-2/</link>
+      <link>/docs/gmt/nested-chapter/chapter-2/</link>
       <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>/%20%22https://github.com/BobbyShukrallah/github.io%22/docs/gmt/nested-chapter/chapter-2/</guid>
+      <guid>/docs/gmt/nested-chapter/chapter-2/</guid>
       <description>&lt;p&gt;How well can we partition a set if we can only partition it using a specified collection of balls? We introduce several ways of approaching this, particularly the Besicovitch Covering Theorem, then use this to study Radon-Nikodym derivatives more in depth.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>03 - Hausdorff Measure</title>
-      <link>/%20%22https://github.com/BobbyShukrallah/github.io%22/docs/gmt/nested-chapter/chapter-3/</link>
+      <link>/docs/gmt/nested-chapter/chapter-3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/%20%22https://github.com/BobbyShukrallah/github.io%22/docs/gmt/nested-chapter/chapter-3/</guid>
+      <guid>/docs/gmt/nested-chapter/chapter-3/</guid>
       <description>&lt;p&gt;We define Hausdorff measure, which allows us to extend the notion of length and area to sets other than curves and surfaces, and generalizes these notions for non-integral dimensional sets. We also introduce Frostman measures, which are key for estimating dimension. Finally, we introduce self-similar sets, a convenient way of constructing sets of any specified dimension.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>04 - Projections, I</title>
-      <link>/%20%22https://github.com/BobbyShukrallah/github.io%22/docs/gmt/nested-chapter/chapter-4/</link>
+      <link>/docs/gmt/nested-chapter/chapter-4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/%20%22https://github.com/BobbyShukrallah/github.io%22/docs/gmt/nested-chapter/chapter-4/</guid>
+      <guid>/docs/gmt/nested-chapter/chapter-4/</guid>
       <description>&lt;p&gt;This week we study how the Hausdorff dimension changes under orthogonal projection. We first begin by making sense of what we mean by &amp;lsquo;almost every plane&amp;rsquo; by introducing the Grasmannian and its associated measure. Next, we introduce energies, a convenient object for estimating dimension that play well with projections.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>05 - Projections, II</title>
-      <link>/%20%22https://github.com/BobbyShukrallah/github.io%22/docs/gmt/nested-chapter/chapter-5/</link>
+      <link>/docs/gmt/nested-chapter/chapter-5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/%20%22https://github.com/BobbyShukrallah/github.io%22/docs/gmt/nested-chapter/chapter-5/</guid>
+      <guid>/docs/gmt/nested-chapter/chapter-5/</guid>
       <description>&lt;p&gt;We continue our study of projections by showing what can happen when we take projections, which is essentially anything! In particular, we cover the miraculous Falconer Sundial, a theorem that says we can make sets with projections equal to whatever want (up to Lebesgue measure zero). This is based on the classical method of Venetian Blinds.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>06 - Lipschitz Functions</title>
-      <link>/%20%22https://github.com/BobbyShukrallah/github.io%22/docs/gmt/nested-chapter/chapter-6/</link>
+      <link>/docs/gmt/nested-chapter/chapter-6/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/%20%22https://github.com/BobbyShukrallah/github.io%22/docs/gmt/nested-chapter/chapter-6/</guid>
+      <guid>/docs/gmt/nested-chapter/chapter-6/</guid>
       <description>&lt;p&gt;A Lipschitz function is a map that does not increase distance between points more than a multiplicative factor. They are generalizations of $C^{1}$ functions: while they aren&amp;rsquo;t necessarily differentiable, they are almost everywhere, and with the benefit that they are easier to construct and can be defined between arbitrary metric spaces.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>07 - Tangent Measures, I</title>
-      <link>/%20%22https://github.com/BobbyShukrallah/github.io%22/docs/gmt/nested-chapter/chapter-7/</link>
+      <link>/docs/gmt/nested-chapter/chapter-7/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/%20%22https://github.com/BobbyShukrallah/github.io%22/docs/gmt/nested-chapter/chapter-7/</guid>
+      <guid>/docs/gmt/nested-chapter/chapter-7/</guid>
       <description>&lt;p&gt;Week 7: Tangent Measures, Part I
 Tangent Measures are measures generated by zooming in on the support of a measure. Their appeal is that sometimes properties that hold a.e. for a measure improve or hold uniformly for their tangent measures. To demonstrate their versatility, we prove Marstrand&amp;rsquo;s Theorem, which says any measure whose s-dimensional densities exist must have s an integer.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>08 - Tangent Measures, II</title>
-      <link>/%20%22https://github.com/BobbyShukrallah/github.io%22/docs/gmt/nested-chapter/chapter-8/</link>
+      <link>/docs/gmt/nested-chapter/chapter-8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/%20%22https://github.com/BobbyShukrallah/github.io%22/docs/gmt/nested-chapter/chapter-8/</guid>
+      <guid>/docs/gmt/nested-chapter/chapter-8/</guid>
       <description>&lt;p&gt;We continue our study of tangent measures by discussing two important results. The first is the succinctly titled theorem Tangent Measures of Tangent Measures are Tangent Measures. The second is a theorem of Preiss, which says measures whose densities exist must only have flat tangent measures almost everywhere.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>09 - Rectifiable Sets, I</title>
-      <link>/%20%22https://github.com/BobbyShukrallah/github.io%22/docs/gmt/nested-chapter/chapter-9/</link>
+      <link>/docs/gmt/nested-chapter/chapter-9/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/%20%22https://github.com/BobbyShukrallah/github.io%22/docs/gmt/nested-chapter/chapter-9/</guid>
+      <guid>/docs/gmt/nested-chapter/chapter-9/</guid>
       <description>&lt;p&gt;Rectifiable sets are measure theoretic versions of smooth manifolds: they can be quite rough, but they still have an almost everywhere differentiable structure. Moreover, it is typically easier to verify a set is rectifiable than smooth. They are important since many results that hold for smooth surfaces extend to the rectifiable sets, and in some instances this is the right amount of differentiable structure needed for a result to hold. The focus this week will be on showing how to establish rectifiability in terms of cone points and that almost every point of a rectifiable set has a &amp;lsquo;weak tangent plane&amp;rsquo; in the sense of tangent measures.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>10 - Rectifiable Sets, II</title>
-      <link>/%20%22https://github.com/BobbyShukrallah/github.io%22/docs/gmt/nested-chapter/chapter-10/</link>
+      <link>/docs/gmt/nested-chapter/chapter-10/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/%20%22https://github.com/BobbyShukrallah/github.io%22/docs/gmt/nested-chapter/chapter-10/</guid>
+      <guid>/docs/gmt/nested-chapter/chapter-10/</guid>
       <description>&lt;p&gt;We continue our discussion of rectifiable sets and prove Marstrand&amp;rsquo;s Rectifiability Criterion, which says that any measure whose lower and upper densities are positive and finite a.e. and whose tangent measures a.e. are all flat must be rectifiable. Combining this with the results we covered on tangent measures, we can finally establish Preiss&#39; Theorem: a measure is m-rectifiable if and only if its m-dimensional densities exist almost everywhere.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>11 - Harmonic Measure</title>
-      <link>/%20%22https://github.com/BobbyShukrallah/github.io%22/docs/gmt/nested-chapter/chapter-11/</link>
+      <link>/docs/gmt/nested-chapter/chapter-11/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/%20%22https://github.com/BobbyShukrallah/github.io%22/docs/gmt/nested-chapter/chapter-11/</guid>
+      <guid>/docs/gmt/nested-chapter/chapter-11/</guid>
       <description>&lt;p&gt;This week we study the connections between the material we&amp;rsquo;ve covered and harmonic measure. The heuristic definition (though we will not rely on it) is, given a domain, the harmonic measure of a subset of its boundary is the probability that a Brownian motion starting from a fixed point first leaves the domain through this set. It turns out that there is a strong connection between geometry of the domain and the behavior of its harmonic measure. We will focus on harmonic measure in non-tangentially accessible domains, and will rely on results from nearly every previous week of lectures.&lt;/p&gt;</description>
     </item>
     

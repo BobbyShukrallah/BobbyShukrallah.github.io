@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Example Author on Jonas Azzam</title>
-    <link>/%20%22https://github.com/BobbyShukrallah/github.io%22/authors/example-author/</link>
+    <link>/authors/example-author/</link>
     <description>Recent content in Example Author on Jonas Azzam</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="/%20%22https://github.com/BobbyShukrallah/github.io%22/authors/example-author/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="/authors/example-author/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -2,51 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/%20%22https://github.com/BobbyShukrallah/github.io%22/research/</loc>
+    <loc>/research/</loc>
   </url><url>
-    <loc>/%20%22https://github.com/BobbyShukrallah/github.io%22/docs/</loc>
+    <loc>/docs/</loc>
     <lastmod>2020-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/%20%22https://github.com/BobbyShukrallah/github.io%22/docs/gmt/</loc>
+    <loc>/docs/gmt/</loc>
     <lastmod>2020-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/%20%22https://github.com/BobbyShukrallah/github.io%22/</loc>
+    <loc>/</loc>
     <lastmod>2020-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/%20%22https://github.com/BobbyShukrallah/github.io%22/docs/gmt/nested-chapter/chapter-1/</loc>
+    <loc>/docs/gmt/nested-chapter/chapter-1/</loc>
     <lastmod>2020-10-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/%20%22https://github.com/BobbyShukrallah/github.io%22/docs/gmt/nested-chapter/chapter-2/</loc>
+    <loc>/docs/gmt/nested-chapter/chapter-2/</loc>
     <lastmod>2020-10-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/%20%22https://github.com/BobbyShukrallah/github.io%22/docs/gmt/nested-chapter/chapter-3/</loc>
+    <loc>/docs/gmt/nested-chapter/chapter-3/</loc>
   </url><url>
-    <loc>/%20%22https://github.com/BobbyShukrallah/github.io%22/docs/gmt/nested-chapter/chapter-4/</loc>
+    <loc>/docs/gmt/nested-chapter/chapter-4/</loc>
   </url><url>
-    <loc>/%20%22https://github.com/BobbyShukrallah/github.io%22/docs/gmt/nested-chapter/chapter-5/</loc>
+    <loc>/docs/gmt/nested-chapter/chapter-5/</loc>
   </url><url>
-    <loc>/%20%22https://github.com/BobbyShukrallah/github.io%22/docs/gmt/nested-chapter/chapter-6/</loc>
+    <loc>/docs/gmt/nested-chapter/chapter-6/</loc>
   </url><url>
-    <loc>/%20%22https://github.com/BobbyShukrallah/github.io%22/docs/gmt/nested-chapter/chapter-7/</loc>
+    <loc>/docs/gmt/nested-chapter/chapter-7/</loc>
   </url><url>
-    <loc>/%20%22https://github.com/BobbyShukrallah/github.io%22/docs/gmt/nested-chapter/chapter-8/</loc>
+    <loc>/docs/gmt/nested-chapter/chapter-8/</loc>
   </url><url>
-    <loc>/%20%22https://github.com/BobbyShukrallah/github.io%22/docs/gmt/nested-chapter/chapter-9/</loc>
+    <loc>/docs/gmt/nested-chapter/chapter-9/</loc>
   </url><url>
-    <loc>/%20%22https://github.com/BobbyShukrallah/github.io%22/docs/gmt/nested-chapter/chapter-10/</loc>
+    <loc>/docs/gmt/nested-chapter/chapter-10/</loc>
   </url><url>
-    <loc>/%20%22https://github.com/BobbyShukrallah/github.io%22/docs/gmt/nested-chapter/chapter-11/</loc>
+    <loc>/docs/gmt/nested-chapter/chapter-11/</loc>
   </url><url>
-    <loc>/%20%22https://github.com/BobbyShukrallah/github.io%22/authors/</loc>
+    <loc>/authors/</loc>
   </url><url>
-    <loc>/%20%22https://github.com/BobbyShukrallah/github.io%22/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>/%20%22https://github.com/BobbyShukrallah/github.io%22/authors/example-author/</loc>
+    <loc>/authors/example-author/</loc>
   </url><url>
-    <loc>/%20%22https://github.com/BobbyShukrallah/github.io%22/authors/hugo-authors/</loc>
+    <loc>/authors/hugo-authors/</loc>
   </url><url>
-    <loc>/%20%22https://github.com/BobbyShukrallah/github.io%22/series/</loc>
+    <loc>/series/</loc>
   </url><url>
-    <loc>/%20%22https://github.com/BobbyShukrallah/github.io%22/tags/</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>
